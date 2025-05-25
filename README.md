@@ -29,4 +29,4 @@ https://github.com/user-attachments/assets/51a4b935-2341-4f68-a337-2b0d028318aa
 
 - Code snippets are sent to Google's Gemini API for analysis
 - Only function/label context is transmitted, not entire binaries
-- Don't be too paranoid :D
+- Don't be paranoid :D
